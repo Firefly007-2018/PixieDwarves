@@ -48,10 +48,6 @@ Certainly! Here is the Markdown table for the data you've provided:
 | 7082_4423_35126_C9CJ9ANXX_Pixie2_PM-Y1_CTATAC_R1.bam        | Pixie (old shoots)   |
 
 
-When rendered, the table will neatly organize the data into rows and columns, with the library names in one column and the cultivar information in another. Cells without cultivar information are left blank.
-
-Please refer to the respective files for more details and usage instructions.
-
 ## Manuscript Information
 This README provides an overview of the data and code used for the manuscript submission. For detailed information, methodology, and results, please refer to the manuscript once it is published.
 
