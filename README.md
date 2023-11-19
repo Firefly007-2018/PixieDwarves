@@ -26,8 +26,6 @@ Appalachian Fruit Research, USDA-Agricultural Research Service, Kearneysville, W
 
 6. Pixie.Counts.Bam.zip HTSeq-generated from bam files for transcript count
 
-Certainly! Here is the Markdown table for the data you've provided:
-
 
 | Library Name                                            | Cultivar             |
 |---------------------------------------------------------|----------------------|
