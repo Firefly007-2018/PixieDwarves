@@ -22,7 +22,7 @@ This repository contains the data and code used for the manuscript submission on
 
 Certainly! Here is the Markdown table for the data you've provided:
 
-```markdown
+
 | Library Name                                            | Cultivar             |
 |---------------------------------------------------------|----------------------|
 | 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-1_ATCACG_R1.bam |                      |
@@ -46,7 +46,7 @@ Certainly! Here is the Markdown table for the data you've provided:
 | 7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O1_TACAGC_R1.bam     | Pixie (old shoots)   |
 | 7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O2_TATAAT_R1.bam     | Pixie (old shoots)   |
 | 7082_4423_35126_C9CJ9ANXX_Pixie2_PM-Y1_CTATAC_R1.bam        | Pixie (old shoots)   |
-```
+
 
 When rendered, the table will neatly organize the data into rows and columns, with the library names in one column and the cultivar information in another. Cells without cultivar information are left blank.
 
