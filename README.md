@@ -1,6 +1,12 @@
 # PixieDwarves
 
-This repository contains the data and code used for the manuscript submission on the transcriptome analysis of grapevine. The analysis uncovers a potential novel role of VvAP1 in regulating the developmental fate of primordia in grapevine.
+This repository contains the data and code used for the 2023 manuscript submission "Transcriptome Analysis Unveils a Potential Novel Role of VvAP1 in Regulating the2 Developmental Fate of Primordia in Grapevine" to Fruit Research Jie Arro, Yingzhen Yang, Guo-qing Song, Peter Cousins, Zongrang Liu, and Gan-Yuan Zhong.
+
+Grape Genetics Research Unit, USDA-Agricultural Research Service, Geneva, NY 14456, USA
+Plant Biotechnology Resource and Outreach Center, Department of Horticulture, Michigan State University, East Lansing, MI 48824, USA
+E&J Gallo, Modesto, CA95358, USA 
+Appalachian Fruit Research, USDA-Agricultural Research Service, Kearneysville, WV25430 USA
+
 
 ## Contents
 1. Appendix2.ListofFloweringOrthologues.xIsx
