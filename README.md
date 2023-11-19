@@ -20,28 +20,35 @@ This repository contains the data and code used for the manuscript submission on
 
 6. Pixie.Counts.Bam.zip HTSeq-generated from bam files for transcript count
 
-library name	cultivar
-7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-1_ATCACG_R1.bam	
-7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-2_CGATGT_R1.bam	
-7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-3_TTAGGC_R1.bam	
-7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N6-1_ACTTGA_R1.bam	
-7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N6-2_GATCAG_R1.bam	
-7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N6-3_TAGCTT_R1.bam	
-7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y1_ATGAGC_R1.bam	Pixie (young shoots)
-7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y2_ATTCCT_R1.bam	Pixie (young shoots)
-7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y3_CAAAAG_R1.bam	Pixie (young shoots)
-7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Oa_CCGTCC_R1.bam	Pinot Meunier
-7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Ob_GTAGAG_R1.bam	Pinot Meunier
-7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Oc_GTCCGC_R1.bam	Pinot Meunier
-7081_4423_35125_C9CJ9ANXX_Pixie1_TSN1_GGCTAC_R1.bam	Thomson Seedless
-7081_4423_35125_C9CJ9ANXX_Pixie1_TSN2_CTTGTA_R1.bam	Thomson Seedless
-7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N3-1_TGACCA_R1.bam	
-7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N3-2_ACAGTG_R1.bam	
-7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N5-1_GCCAAT_R1.bam	
-7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N5-2_CAGATC_R1.bam	
-7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O1_TACAGC_R1.bam	Pixie (old shoots)
-7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O2_TATAAT_R1.bam	Pixie (old shoots)
-7082_4423_35126_C9CJ9ANXX_Pixie2_PM-Y1_CTATAC_R1.bam	Pixie (old shoots)
+Certainly! Here is the Markdown table for the data you've provided:
+
+```markdown
+| Library Name                                            | Cultivar             |
+|---------------------------------------------------------|----------------------|
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-1_ATCACG_R1.bam |                      |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-2_CGATGT_R1.bam |                      |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N2-3_TTAGGC_R1.bam |                      |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N6-1_ACTTGA_R1.bam |                      |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N6-2_GATCAG_R1.bam |                      |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_GGAI5175N6-3_TAGCTT_R1.bam |                      |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y1_ATGAGC_R1.bam     | Pixie (young shoots) |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y2_ATTCCT_R1.bam     | Pixie (young shoots) |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_Pixie-Y3_CAAAAG_R1.bam     | Pixie (young shoots) |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Oa_CCGTCC_R1.bam        | Pinot Meunier        |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Ob_GTAGAG_R1.bam        | Pinot Meunier        |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_PM-Oc_GTCCGC_R1.bam        | Pinot Meunier        |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_TSN1_GGCTAC_R1.bam         | Thomson Seedless     |
+| 7081_4423_35125_C9CJ9ANXX_Pixie1_TSN2_CTTGTA_R1.bam         | Thomson Seedless     |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N3-1_TGACCA_R1.bam |                      |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N3-2_ACAGTG_R1.bam |                      |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N5-1_GCCAAT_R1.bam |                      |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_GGAI5175N5-2_CAGATC_R1.bam |                      |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O1_TACAGC_R1.bam     | Pixie (old shoots)   |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_Pixie-O2_TATAAT_R1.bam     | Pixie (old shoots)   |
+| 7082_4423_35126_C9CJ9ANXX_Pixie2_PM-Y1_CTATAC_R1.bam        | Pixie (old shoots)   |
+```
+
+When rendered, the table will neatly organize the data into rows and columns, with the library names in one column and the cultivar information in another. Cells without cultivar information are left blank.
 
 Please refer to the respective files for more details and usage instructions.
 
